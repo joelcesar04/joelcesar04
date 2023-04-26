@@ -13,10 +13,12 @@
 <a href = "mailto:joelcesar09@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joel-cesar-andrade-26ab04227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
+ 
  </br>
+ 
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joelcesar04&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false" alt="Joel Andrade github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcesar04&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joelcesar04&theme=chartreuse-dark&hide_border=false&include_all_commits=true&" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcesar04&theme=chartreuse-dark&hide_border=false&include_all_commits=true&layout=compact" />
 </div>
 
 <div align="center">
