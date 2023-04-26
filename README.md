@@ -17,8 +17,8 @@
  </br>
  
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joelcesar04&theme=chartreuse-dark&hide_border=false&include_all_commits=true&" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcesar04&theme=chartreuse-dark&hide_border=false&include_all_commits=true&layout=compact" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joelcesar04&theme=chartreuse-dark&show_icons=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcesar04&layout=compact&theme=chartreuse-dark" />
 </div>
 
 <div align="center">
