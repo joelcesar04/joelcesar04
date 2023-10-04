@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6BD600&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joel+Andrade;I'm+19+years+old;I'm+a+Junior+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
@@ -16,8 +15,8 @@
  </br>
  
  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joelcesar04&theme=chartreuse-dark&show_icons=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcesar04&layout=compact&theme=chartreuse-dark" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joelcesar04&layout=compact&theme=chartreuse-dark" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcesar04&theme=chartreuse-dark&layout=compact" />
 </div>
 
 <div align="center">
