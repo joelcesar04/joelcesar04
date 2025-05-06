@@ -1,29 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6BD600&height=120&section=header"/>
+# My name is Joel 🧑‍💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6BD600&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joel+Andrade;I'm+21+years+old;I'm+a+Junior+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+**`FullStack Developer`**
+- 🚀 Building clean, scalable and maintainable software solutions
+- 🎓 Graduated in Systems Analysis and Development
+- 🔥 Passionate about tech, teaching, and building real-world solutions
+- 🎥 Content creator on [YouTube](https://www.youtube.com/@eujoelcesar), [Instagram](https://www.instagram.com/eujoeldev/) & [TikTok](https://www.tiktok.com/@eujoeldev)
+- 🌱 Always learning and sharing about dev life, career, and challenges
 
 ## 💻 Tech Stack:
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,react,ts,mysql,postgres,docker,git,github,visualstudio,vscode)](https://skillicons.dev) 
 
 ## 🌐 Socials:
 <div align="start"> 
-<a href="https://instagram.com/joelcesar_04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E34F26?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://instagram.com/joelcesar_04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E34F26?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:joelcesar09@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joel-cesar-andrade-26ab04227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
  </br>
  
- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joelcesar04&layout=compact&theme=chartreuse-dark" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcesar04&theme=chartreuse-dark&layout=compact" />
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joelcesar04}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6BD600&height=120&section=footer"/>
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcesar04&theme=chartreuse-dark&layout=compact" />
